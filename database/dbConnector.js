@@ -8,6 +8,6 @@ export const pool =  mysql.createPool({
     database: process.env.DATABASE
 }).promise();
 
-export const query = (sql, args) => {
-    return pool.query(sql, args);
+export const query = async (sql, args) => {
+    return await pool.query(sql, args);
 } 

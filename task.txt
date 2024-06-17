@@ -5,11 +5,11 @@ Deadline : 20 juni
 Link pengumpulan menyusul ya teman2, jgn lupa dikerjain
 
 Kebutuhan
- - Mampu membuat notes baru
- - Mampu menampilkan semua notes
- - Mampu menampilkan salah satu notes
- - Mampu mengubah notes (judul, tanggal, dan catatan)
- - Mampu menghapus notes
+ - Mampu membuat notes baru (X)
+ - Mampu menampilkan semua notes (X)
+ - Mampu menampilkan salah satu notes (X)
+ - Mampu mengubah notes (judul, tanggal, dan catatan) (X)
+ - Mampu menghapus notes (X)
 
 
 Perhatian
